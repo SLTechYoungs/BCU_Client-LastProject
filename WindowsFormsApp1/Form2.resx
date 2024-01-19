@@ -117,23 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="학교background1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\학교background1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="bunifuPanel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAKEAAABECAYAAADp2FWHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAGBSURBVHhe7dRBCsIwGAXh3v88uV8li0CL25YJ9BMEdeM4
+        b/yPw4OBXQyMMc71nEze8/FmD3/dzy/b5c+A4zsGbt2J8DvD7/RLRbjTGlgYYKAx4BI23n3rxYAI5ZAb
+        EGE+AQAGGMgNuIT5BABEqIHcgAjzCQAwwEBuwCXMJwAgQg3kBkSYTwCAAQZyAy5hPgEAEWogNyDCfAIA
+        DDCQG3AJ8wkAiFADuQER5hMAYICB3IBLmE8AQIQayA2IMJ8AAAMM5AZcwnwCACLUQG5AhPkEABhgIDfg
+        EuYTABChBnIDIswnAMAAA7kBlzCfAIAINZAbEGE+AQAGGMgNuIT5BABEqIHcgAjzCQAwwEBuwCXMJwAg
+        Qg3kBkSYTwCAAQZyAy5hPgEAEWogNyDCfAIADDCQG3AJ8wkAiFADuQER5hMAYICB3IBLmE8AQIQayA2I
+        MJ8AAAMM5AZcwnwCACLUQG5AhPkEABhgIDdwu4STZn6wPlyvvR/n1Q0fz/rI/wUAGFgGfvwlBCbrP4yH
+        AAAAAElFTkSuQmCC
+</value>
   </data>
-  <data name="부천대 로그인" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\부천대 로그인.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuFormCaptionButton2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAABWSURBVGhD7dGxCQAwCARA91/2R0jICBZBixMshfe+yhAg
+        QIAAAQIECBAgQIAAAQIEVgkkOZu2jbMp/MvigelG2g04IECAAAECBAgQIECAAAECBAh8FbgceSLfu8Po
+        ZAAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="학교background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\학교background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="bunifuFormCaptionButton1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAEcSURBVEhL7ZO9DgFREIVXREeHRE+j2kJ0HkCl9wLCCyhE
+        o1J7y/3/e4BrRnKTs5O17v5p2ETC3jvfmTlnWNbPPmEYHrMsm3ZiAMFPURQp/nQiwlAt0LqIUqoXx/EZ
+        Bfi767qzxnY5jjMU4Ftrk1DXc4RRDjvuWNplPAluSRAEW4QnSbJAO+jupdIkuCVUmLPB87yRgG9kHlxf
+        moccmwFUdOWAsZDt0HA6v3MdT24UdoGIjYUkNsDO6XffCIyX0jSdIISCXulzev/QZ3yvMlwX+L6/FB7b
+        ZMNevyPRdW04dTaWAYqJDq3BCyZRTeA573kShslMjP9UZcFquL6D2/Vx3+WIskMJRxHjfUcRDPAdvLbv
+        XAh7/fL8/3zFgSeWkBqyttMvxQAAAABJRU5ErkJggg==
+</value>
   </data>
-  <data name="BCU_Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BCU_Logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pin" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="pin_fill" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pin_fill.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="bunifuFormDock1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="bunifuFormDock2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>286, 17</value>
+  </metadata>
 </root>
